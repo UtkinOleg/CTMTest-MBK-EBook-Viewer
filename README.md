@@ -30,7 +30,4 @@ rate of development of didactic units;
 3. development of the discipline.
 4. statistical analysis of the results of testing by the Birnbaum's method.
 
-# More information and download
-
-http://siberia-soft.ru
 
